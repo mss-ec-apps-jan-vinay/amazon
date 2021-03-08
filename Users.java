@@ -1,3 +1,3 @@
 Hello...
 GM/GA/GE
-Git Commands are very usefull
+Git Commands are very
